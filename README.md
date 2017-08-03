@@ -17,6 +17,12 @@
 - [发你视频：手机上的视频下载神器](https://lai.yuweining.cn/archives/962/)
 - [600 + 套 PPT 模板免费打包下载](https://lai.yuweining.cn/archives/913/)
 - [BT 磁力搜索引擎索引](https://lai.yuweining.cn/archives/909/)
+- [飞客BT搜索](http://www.feikebt.com/)
+- [AVMOO：老司机鸡儿不放假](https://lai.yuweining.cn/archives/856/)
+- [福利导航](https://lai.yuweining.cn/fuli.html#menu_index_5)
+- [avgle ： 老司机不可描述网站](https://lai.yuweining.cn/archives/844/)
+- [免费喝汤](https://lai.yuweining.cn/archives/823/)
+- [AVnight：无需科学上网的老司机看片 APP](http://www.iavnight.com/)
 
 ## blog工具
 - [回响](http://typecho.org/)
@@ -46,6 +52,8 @@
 - [bossfight 图站](https://bossfight.co/category/people/)
 - [图片分享](http://streetwill.co/)
 - [无版权图片网站汇总](https://lai.yuweining.cn/archives/575/)
+- [51GIF：GIF 动图中文搜索平台](http://www.51gif.com/)
+- [免费图片](https://pixabay.com/zh/%E5%A5%B3%E5%AD%90-%E5%A5%B3%E6%80%A7-%E7%BE%8E%E4%B8%BD-%E6%83%85%E8%89%B2-%E6%84%9F%E5%AE%98-%E6%A0%91-%E6%80%A7%E8%B4%A8-%E7%8E%AF%E5%A2%83-%E6%99%AF%E8%A7%82-%E8%89%BA%E6%9C%AF-845850/)
 
 ## chrome 扩展
 - [二箱](https://ainoob.com/zh/project/noobox)
@@ -66,3 +74,14 @@
 ## 工具类
 - [Convertio: 支持上万中格式的在线免费转换网站](https://lai.yuweining.cn/archives/908/)
 - [ilovepdf ：PDF 文件在线管理工具](https://lai.yuweining.cn/archives/896/)
+- [smallpdf ：在线 PDF 转换](https://smallpdf.com/cn)
+- [OldVersion：免费收藏各种软件旧版本](http://www.oldversion.com/)
+- [Mounty for NTFS - 免费让 Mac 原生支持移动硬盘 / U 盘 NTFS](https://lai.yuweining.cn/archives/864/)
+- [图床](https://ximg.it/)
+- [图床](https://niupic.com/)
+- [FontConverter ： webfont 在线字体格式转换](https://onlinefontconverter.com/)
+- [Cloudconvert：在线任意转换图片格式](https://cloudconvert.com/)
+- [科研在线：无上限扩容, 支持多平台同步](http://ddl.escience.cn/)
+- [HTML Reference 网页开发者必备手册！](http://htmlreference.io/)
+- [不死鸟分享的微博](http://weibo.com/yuweining?is_hot=1)
+
