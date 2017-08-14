@@ -58,7 +58,7 @@
 - [TextNow：国外免费手机号码](https://lai.yuweining.cn/archives/1039/)
 - [Surge for Mac2.0 破解版 & 开心版](https://lai.yuweining.cn/archives/694/)
 - [doub.io 免费ss账号分享](https://doub.bid/sszhfx/)
-- [不死鸟 涅槃](http://yuweining.cn/niepan/)
+- [不死鸟 涅槃](http://yuweining.cn/niepan/)   新域名： [](sss.kiwi)
 - [Alvin9999免费SS](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [一键科学上网](https://www.babel.cc/share.do?s=1785053810418722)
 - [bladevpn官网](https://www.bladevpn.com)
