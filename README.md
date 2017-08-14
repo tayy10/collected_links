@@ -36,6 +36,7 @@
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
 - [破解软件下载](http://www.sdifen.com/)
 - [免费一年美国VPS](https://lai.yuweining.cn/archives/1179/)
+- [滴滴](http://xumeiyun.ml)
 
 ## blog工具
 - [回响](http://typecho.org/)
