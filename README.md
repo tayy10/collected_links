@@ -37,6 +37,7 @@
 - [破解软件下载](http://www.sdifen.com/)
 - [免费一年美国VPS](https://lai.yuweining.cn/archives/1179/)
 - [滴滴](http://xumeiyun.ml)
+- [acg](https://acg12.com/)
 
 ## blog工具
 - [回响](http://typecho.org/)
