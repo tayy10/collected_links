@@ -152,7 +152,7 @@
 - [免费接收短信](http://www.freesmsverifications.com/)
 - [暴力猴脚本](https://greasyfork.org/zh-CN)
 - [Leonn 的博客](https://liyuans.com/)
-
+- [破解软件](http://www.ghboke.com/?post=323)
 
 
 ```
